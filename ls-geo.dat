@@ -1,0 +1,445 @@
+(dp0
+V
+p1
+VLatviya
+p2
+sVMurmanskaya Oblast'
+p3
+VMurmanskaya obl.
+p4
+sVRyazanskaya Oblast'
+p5
+VRyazanskaya obl.
+p6
+sVRivnens'ka Oblast'
+p7
+VRovenskaya obl.
+p8
+sVShyghys Qazaqstan Oblysy
+p9
+VVostochno-Kazahstanskaya obl.
+p10
+sVRespublika Sakha (Yakutiya)
+p11
+VSaha (Yakutiya)
+p12
+sVMoskovskaya Oblast'
+p13
+VMoscow & Moscow Region
+p14
+sVAlmaty Qalasy
+p15
+VAlma-Atinskaya obl.
+p16
+sVKhust
+p17
+VHust
+p18
+sVUst'-Ilimsk
+p19
+VUst-Ilimsk
+p20
+sVMukacheve
+p21
+VMukachevo
+p22
+sVKherson
+p23
+VHerson
+p24
+sVZabaykal'skiy Kray
+p25
+VChitinskaya obl.
+p26
+sVQaraghandy Oblysy
+p27
+VKaragandinskaya obl.
+p28
+sVElektrostal'
+p29
+VElektrostal
+p30
+sVSamarskaya Oblast'
+p31
+VSamarskaya obl.
+p32
+sVMykolayiv
+p33
+VNikolaev
+p34
+sVAmurskaya Oblast'
+p35
+VAmurskaya obl.
+p36
+sVKaspiysk
+p37
+VKaspiisk
+p38
+sVKyiv Oblast
+p39
+VKievskaya obl.
+p40
+sVDonets'k
+p41
+VDonetsk
+p42
+sVKirovohrads'ka Oblast'
+p43
+VKirovogradskaya obl.
+p44
+sVLuhans'k
+p45
+VLugansk
+p46
+sVTyumenskaya Oblast'
+p47
+VTyumenskaya obl. i Hanty-Mansiiskii AO
+p48
+sVMakiyivka
+p49
+VMakeevka
+p50
+sVLipetskaya Oblast'
+p51
+VLipetskaya obl.
+p52
+sVHrodna
+p53
+VGrodno
+p54
+sVKanton Solothurn
+p55
+VSolothurn
+p56
+sVIrkutskaya Oblast'
+p57
+VIrkutskaya obl.
+p58
+sVSankt-Peterburg
+p59
+VSaint-Petersburg and Region
+p60
+sVMykolayivs'ka Oblast'
+p61
+VNikolaevskaya obl.
+p62
+sVOrekhovo-Zuyevo
+p63
+VOrehovo-Zuevo
+p64
+sVDnipropetrovsk
+p65
+VDnepropetrovsk
+p66
+sVL'viv
+p67
+VLvov
+p68
+sVKomsomolsk-on-Amur
+p69
+VKomsomolsk-na-Amure
+p70
+sVLand Hessen
+p71
+VHessen
+p72
+sVKostanay
+p73
+VKustanai
+p74
+sVKaragandy
+p75
+VKaraganda
+p76
+sVYaroslavskaya Oblast'
+p77
+VYaroslavskaya obl.
+p78
+sVStaryy Oskol
+p79
+VStaryi Oskol
+p80
+sVZhukovskiy
+p81
+VZhukovskii
+p82
+sVL'vivs'ka Oblast'
+p83
+VLvovskaya obl.
+p84
+sVKharkiv
+p85
+VHarkov
+p86
+sVUssuriysk
+p87
+VUssuriisk
+p88
+sVPodol'sk
+p89
+VPodolsk
+p90
+sVRespublika Mariy-El
+p91
+VMarii El
+p92
+sVKaliningrad
+p93
+VKaliningrad (Kenigsberg)
+p94
+sVBlagoveshchensk
+p95
+VBlagoveshchensk (Amurskaya obl.)
+p96
+sVShandong Sheng
+p97
+VShandong
+p98
+sVTambovskaya Oblast'
+p99
+VTambovskaya obl.
+p100
+sVKaliningradskaya Oblast'
+p101
+VKaliningradskaya obl.
+p102
+sVKrasnoyarskiy Kray
+p103
+VKrasnoyarskii krai
+p104
+sVMoskva
+p105
+g14
+sVTaldykorgan
+p106
+VAlmaty (Alma-Ata)
+p107
+sVPavlodar Oblysy
+p108
+VPavlodarskaya obl.
+p109
+sVUlaanbaatar Hot
+p110
+VUlan Bator
+p111
+sVKyiv
+p112
+VKievskaya obl.
+p113
+sVBryanskaya Oblast'
+p114
+VBryanskaya obl.
+p115
+sVYubileyny
+p116
+VUybileyniy
+p117
+sVRostovskaya Oblast'
+p118
+VRostovskaya obl.
+p119
+sVKurskaya Oblast'
+p120
+VKurskaya obl.
+p121
+sVPskovskaya Oblast'
+p122
+VPskovskaya obl.
+p123
+sVDnipropetrovska Oblast'
+p124
+VDnepropetrovskaya obl.
+p125
+sVKirovohrad
+p126
+VKirovograd
+p127
+sVKharkivs'ka Oblast'
+p128
+VHarkovskaya obl.
+p129
+sVTverskaya Oblast'
+p130
+VTverskaya obl.
+p131
+sVKaluzhskaya Oblast'
+p132
+VKaluzhskaya obl.
+p133
+sVVladimirskaya Oblast'
+p134
+VVladimirskaya obl.
+p135
+sVPenzenskaya Oblast'
+p136
+VPenzenskaya obl.
+p137
+sVPerm Krai
+p138
+VPermskiy krai
+p139
+sVSmolenskaya Oblast'
+p140
+VSmolenskaya obl.
+p141
+sVRivne
+p142
+VRovno
+p143
+sVYoshkar-Ola
+p144
+VIoshkar-Ola
+p145
+sVUdmurtskaya Respublika
+p146
+VUdmurtiya
+p147
+sVZakarpattia Oblast
+p148
+VZakarpatskaya obl.
+p149
+sVPrimorskiy Kray
+p150
+VPrimorskii krai
+p151
+sVAlmaty Oblysy
+p152
+VAlma-Atinskaya obl.
+p153
+sVOrenburgskaya Oblast'
+p154
+VOrenburgskaya obl.
+p155
+sVKrasnodarskiy Kray
+p156
+VKrasnodarskii krai
+p157
+sVKrasnoznamensk
+p158
+VKrasnoznamensk (Moskovskaya obl.)
+p159
+sVSevero-Kazakhstanskaya Oblast'
+p160
+VSevero-Kazahstanskaya obl.
+p161
+sVChelyabinskaya Oblast'
+p162
+VChelyabinskaya obl.
+p163
+sVSaint Petersburg
+p164
+VSaint-Petersburg
+p165
+sVSemey
+p166
+VSemipalatinsk
+p167
+sVNizhniy Novgorod
+p168
+VNizhnii Novgorod
+p169
+sVLuhans'ka Oblast'
+p170
+VLuganskaya obl.
+p171
+sVNakhabino
+p172
+VNahabino
+p173
+sVKhabarovskiy Kray
+p174
+VHabarovskii krai
+p175
+sVBelgorodskaya Oblast'
+p176
+VBelgorodskaya obl.
+p177
+sVZhejiang Sheng
+p178
+VZhejiang
+p179
+sVUlaanbaatar
+p180
+VUlan Bator
+p181
+sVHorad Minsk
+p182
+VMinskaya obl.
+p183
+sVTul'skaya Oblast'
+p184
+VTulskaya obl.
+p185
+sVGrodnenskaya Oblast'
+p186
+VGrodnenskaya obl.
+p187
+sVSaratovskaya Oblast'
+p188
+VSaratovskaya obl.
+p189
+sVAltayskiy Kray
+p190
+VAltaiskii krai
+p191
+sVVoronezhskaya Oblast'
+p192
+VVoronezhskaya obl.
+p193
+sVKemerovskaya Oblast'
+p194
+VKemerovskaya obl.
+p195
+sVOmskaya Oblast'
+p196
+VOmskaya obl.
+p197
+sVNizhegorodskaya Oblast'
+p198
+VNizhegorodskaya (Gorkovskaya)
+p199
+sVChuvashskaya Respublika
+p200
+VChuvashiya
+p201
+sVAlmaty
+p202
+VAlmaty (Alma-Ata)
+p203
+sVNovosibirskaya Oblast'
+p204
+VNovosibirskaya obl.
+p205
+sVKhanty-Mansiyskiy Avtonomnyy Okrug - Yugra
+p206
+VTyumenskaya obl. i Hanty-Mansiiskii AO
+p207
+sVVolgogradskaya Oblast'
+p208
+VVolgogradskaya obl.
+p209
+sVOdes'ka Oblast'
+p210
+VOdesskaya obl.
+p211
+sVDonets'ka Oblast'
+p212
+VDonetskaya obl.
+p213
+sVKhersons'ka Oblast'
+p214
+VHersonskaya obl.
+p215
+sVUlyanovsk Oblast
+p216
+VUlyanovskaya obl.
+p217
+sVRyazan'
+p218
+VRyazan
+p219
+sVQostanay Oblysy
+p220
+VKustanaiskaya obl.
+p221
+s.
